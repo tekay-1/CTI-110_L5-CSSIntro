@@ -1,0 +1,59 @@
+/*F3F7F3
+151922
+D81C1C
+87788D
+40435B
+*/
+body {
+    background-color: #151922;
+}
+
+.header {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #87788D;
+}
+
+.paragraph-text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#F3F7F3;
+    font-size: 20px;
+    padding: 7px;
+    margin: 5px;
+    border: 2px solid #D81C1C;
+
+}
+
+.side-text {
+    font-size: 18px;
+    color: #87788D;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#aside-text {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    padding: 7px;
+    margin: 15px;
+    border: 2px solid #40435B;
+    color: #F3F7F3;
+}
+
+
+a:visited {
+  color: #D81C1C;
+}
+
+a:hover {
+  opacity: 0.7;
+}
+
+#suits {
+    height: 250px;
+    width:185px;
+}
+
+#mrhs {
+    height: 250px;
+    width:350px;
+}
+
